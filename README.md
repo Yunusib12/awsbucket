@@ -1,12 +1,10 @@
-#AWS S3 Bucket 
+### Amazon Web Servvice API
 
 ### Overview
 
 Using Amazon Web Service API to Create Bucket and upload files into it then display on the page.
 
-### Amazon Web Servvice API
-
-<img src="./public/img/aws-s3-thumbnail.jpg?raw=true">
+<img src="./public/assets/images/aws-s3-thumbnail.jpg?raw=true">
 
 ### Want to Try? 
 
